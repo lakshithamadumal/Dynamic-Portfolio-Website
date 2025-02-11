@@ -24,7 +24,7 @@ A dynamic and beautifully designed portfolio website created using **HTML**, **C
 ## 📬 Contact
 For any inquiries or collaborations, feel free to reach out!
 
-🌍 Live Demo: [![Vercel](https://img.shields.io/badge/Live_Demo-000000?logo=vercel&logoColor=white)](https://agrium.vercel.app/)
+🌍 Live Demo: [![Vercel](https://img.shields.io/badge/Live_Demo-000000?logo=vercel&logoColor=white)](https://vercel.com/laky2003s-projects/dynamic-portfolio-website)
 
 📧 Email: mandujayaweera2003@gmail.com
 
